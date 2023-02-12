@@ -1,7 +1,7 @@
 # eKonobar | Flutter (Dart) | Firebase
 
 <img src="[https://your-image-url.type](https://github.com/Aback231/eKonobar-Flutter-Firebase/blob/main/log_in.jpeg)" width="50" height="100">
-![alt text](https://github.com/Aback231/eKonobar-Flutter-Firebase/blob/main/log_in.jpeg | width=100)
+
 ![alt text](https://github.com/Aback231/eKonobar-Flutter-Firebase/blob/main/menu.jpeg?raw=true)
 ![alt text](https://github.com/Aback231/eKonobar-Flutter-Firebase/blob/main/orders.jpeg?raw=true)
 ![alt text](https://github.com/Aback231/eKonobar-Flutter-Firebase/blob/main/qr_scan.jpeg?raw=true)
