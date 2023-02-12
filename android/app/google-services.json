@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "192901749551",
+    "firebase_url": "https://shop-app-212c0.firebaseio.com",
+    "project_id": "shop-app-212c0",
+    "storage_bucket": "shop-app-212c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192901749551:android:751faedb0cd4174f72dfda",
+        "android_client_info": {
+          "package_name": "com.ekonobar.ekonobar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192901749551-mc23av2hugrtqn0ncu65ek3huie3b3o5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ekonobar.ekonobar",
+            "certificate_hash": "5a6bf8c2b78eea3777b12d68c0cf722cce5817e8"
+          }
+        },
+        {
+          "client_id": "192901749551-q1e1et1g4h5vebd43rgh19b61gai8ret.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ekonobar.ekonobar",
+            "certificate_hash": "b7847a8c913bc616b8167119eff7719ec2a83810"
+          }
+        },
+        {
+          "client_id": "192901749551-jcgj4r21573r19u4aistu6sgbadc5lq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGG9FMhWXS6p1sdGvEvSqZqN1JuDpKcSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192901749551-jcgj4r21573r19u4aistu6sgbadc5lq8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "192901749551-ikljt2358uhmshpch3sa3on90af4je2r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ekonobar.ekonobar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
