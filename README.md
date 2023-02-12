@@ -1,6 +1,6 @@
 # eKonobar | Flutter (Dart) | Firebase
 
-<img src="https://github.com/Aback231/eKonobar-Flutter-Firebase/blob/main/log_in.jpeg" width="230" height="500"> <img src="https://github.com/Aback231/eKonobar-Flutter-Firebase/blob/main/menu.jpeg" width="230" height="500"> <img src="https://github.com/Aback231/eKonobar-Flutter-Firebase/blob/main/orders.jpeg" width="230" height="500"> <img src="https://github.com/Aback231/eKonobar-Flutter-Firebase/blob/main/qr_scan.jpeg" width="230" height="500">
+<img src="https://github.com/Aback231/eKonobar-Flutter-Firebase/blob/main/log_in.jpeg" width="240" height="500"> <img src="https://github.com/Aback231/eKonobar-Flutter-Firebase/blob/main/menu.jpeg" width="240" height="500"> <img src="https://github.com/Aback231/eKonobar-Flutter-Firebase/blob/main/orders.jpeg" width="240" height="500"> <img src="https://github.com/Aback231/eKonobar-Flutter-Firebase/blob/main/qr_scan.jpeg" width="240" height="500">
 
 ## Description
 
